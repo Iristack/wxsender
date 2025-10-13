@@ -1,6 +1,6 @@
 package robot
 
-import "wxsender/structs"
+import "github.com/iristack/wxsender/structs"
 
 type TemplateCard struct {
 	structs.Message

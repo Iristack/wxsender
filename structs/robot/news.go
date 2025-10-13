@@ -1,6 +1,6 @@
 package robot
 
-import "wxsender/structs"
+import "github.com/iristack/wxsender/structs"
 
 // News 群聊天机器人消息结构 - 图文类型
 type News struct {

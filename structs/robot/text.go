@@ -1,6 +1,6 @@
 package robot
 
-import "wxsender/structs"
+import "github.com/iristack/wxsender/structs"
 
 // Text 群聊天机器人消息结构 - 文本类型
 type Text struct {

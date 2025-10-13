@@ -1,6 +1,6 @@
 package robot
 
-import "wxsender/structs"
+import "github.com/iristack/wxsender/structs"
 
 // MarkdownV2 群聊天机器人消息结构 - MarkdownV2类型
 type MarkdownV2 struct {

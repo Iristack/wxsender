@@ -1,7 +1,7 @@
 package robot
 
 import (
-    "wxsender/structs"
+    "github.com/iristack/wxsender/structs"
 )
 
 // File 群聊天机器人消息结构 - 文件类型

@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
+	"github.com/iristack/wxsender/structs/robot"
+	"github.com/iristack/wxsender/types"
 	"testing"
-	"wxsender/structs/robot"
-	"wxsender/types"
 )
 
 var c Client

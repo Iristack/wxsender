@@ -1,6 +1,6 @@
 package robot
 
-import "wxsender/structs"
+import "github.com/iristack/wxsender/structs"
 
 // Image 群聊天机器人消息结构 - 图片类型
 type Image struct {

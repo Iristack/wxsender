@@ -1,1 +1,1 @@
-module wxsender
+module github.com/iristack/wxsender

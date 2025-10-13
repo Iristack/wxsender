@@ -3,11 +3,11 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/iristack/wxsender/structs"
+	"github.com/iristack/wxsender/types"
 	"io"
 	"net/http"
 	"strings"
-	"wxsender/structs"
-	"wxsender/types"
 )
 
 const (
